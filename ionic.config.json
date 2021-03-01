@@ -1,0 +1,7 @@
+{
+  "name": "Accplus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
